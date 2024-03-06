@@ -6,15 +6,17 @@ body {
   font-size: 30px;
 }
 
+.small-para {
+  font-size: 20px;
+}
+
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
 
-.small-para {
-  font-size: 14px;
-}
+
 
 
 .confirm {
