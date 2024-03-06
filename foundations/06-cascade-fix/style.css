@@ -13,7 +13,7 @@ body {
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
+  font-weight: 1000;
 }
 
 .button.confirm {
@@ -36,6 +36,6 @@ div.text {
 
 .text.child {
   color: rgb(0, 0, 0);
-  font-weight: 800;
+  font-weight: 1000;
   font-size: 16px;
 }
