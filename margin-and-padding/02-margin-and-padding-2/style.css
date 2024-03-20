@@ -6,8 +6,8 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: 16px auto;
-  padding: 8px;
+  margin: 8px;
+  padding: 6px;
 }
 
 .title {
@@ -33,4 +33,5 @@ button {
   border: 1px solid #eee;
   display: block;
   margin: auto;
+  padding: 6px 24px;
 }
