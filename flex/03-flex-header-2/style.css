@@ -50,8 +50,11 @@ ul {
 
 .links{
   display: flex;
-  justify-content: flex-start;
   gap: 8px;
   border: 2px solid black;
+  }
+
+  .left-links{
+    display: flex;
   }
 
