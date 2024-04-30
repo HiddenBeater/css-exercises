@@ -29,3 +29,7 @@ img {
   display: flex;
   justify-content: center;
 }
+
+.plants{
+  display: flex;
+}
