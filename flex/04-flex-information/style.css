@@ -28,7 +28,7 @@ img {
 }
 .plants{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   margin-top: 32px;
 }
 
