@@ -29,4 +29,14 @@ img {
 .plants{
   display: flex;
   justify-content: space-evenly;
+  margin-top: 32px;
+}
+
+.barberry{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  border: 2px solid black;
+  width: 200px;
+  align-items: center;
 }
