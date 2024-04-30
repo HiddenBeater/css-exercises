@@ -37,5 +37,7 @@ img {
   flex-direction: column;
   border: 2px solid black;
   width: 200px;
+  justify-content: center;
   align-items: center;
+  text-align: center;
 }
