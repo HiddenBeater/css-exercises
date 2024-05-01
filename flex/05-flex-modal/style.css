@@ -48,7 +48,8 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
-  margin-right: 25px;
+  margin-right: 15px;
+  margin-top: 10px;
 }
 
 button {
