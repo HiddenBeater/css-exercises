@@ -72,11 +72,17 @@ button.cancel {
 
 .container{
   display: flex;
-  justify-content:space-between
+  justify-content:space-around;
+  padding: 20 20;
 }
 
 .header{
   display: flex;
   align-items: center;
   font-weight: bold;
+}
+
+.text{
+  display: flex;
+  align-items: center;
 }
