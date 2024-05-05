@@ -49,7 +49,6 @@ input {
 
 .header, .footer{
   display: flex;
-  padding-right: auto;
   justify-content: space-between;
   padding: 16px;
 }
