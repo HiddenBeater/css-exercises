@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 ul{
   list-style-type: none;
   display: flex;
-  border: 2px solid black;
   gap: 20px;
   flex: 1;
 }
@@ -41,7 +46,6 @@ input {
 .header{
   display: flex;
   padding-right: auto;
-  border: 2px solid black;
   justify-content: space-between;
 }
 
