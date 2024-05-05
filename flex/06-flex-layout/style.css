@@ -65,6 +65,9 @@ input {
 
 .content{
   display: flex;
+  flex: 1;
+  gap: 16px;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
 }
