@@ -5,6 +5,7 @@ ul{
   display: flex;
   border: 2px solid black;
   gap: 20px;
+  flex: 1;
 }
 
 a{
@@ -42,4 +43,8 @@ input {
   padding-right: auto;
   border: 2px solid black;
   justify-content: space-between;
+}
+
+.footer{
+  display: flex;
 }
