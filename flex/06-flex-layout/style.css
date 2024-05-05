@@ -48,3 +48,13 @@ input {
 .footer{
   display: flex;
 }
+
+.right-links{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.left-links{
+  display: flex;
+  margin-left: 0;
+}
