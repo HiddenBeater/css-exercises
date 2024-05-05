@@ -60,7 +60,6 @@ input {
 .footer{
   display: flex;
   background-color: #eeeeee;
-  border: 2px solid black;
 }
 
 .content{
