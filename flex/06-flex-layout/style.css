@@ -47,6 +47,7 @@ input {
   display: flex;
   padding-right: auto;
   justify-content: space-between;
+  margin-top: 15px;
 }
 
 .footer{
@@ -56,9 +57,10 @@ input {
 .right-links{
   display: flex;
   justify-content: flex-end;
+  margin-right: 10px;
 }
 
 .left-links{
   display: flex;
-  margin-left: 0;
+  margin-left: 10px;
 }
