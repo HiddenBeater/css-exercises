@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+*{
+  margin: 0;
+  padding: 0;
+}
+
 ul{
   list-style-type: none;
 }
@@ -32,9 +37,10 @@ input {
 
 .top-left-links{
   display: flex;
-  gap: 20px;
-  justify-content: center;
+  align-items: center;
+  gap: 15px;
   border: 2px solid black;
+  margin-left: 10px;
 }
 
 .header{
