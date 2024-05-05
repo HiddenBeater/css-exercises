@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+ul{
+  list-style-type: none;
+}
+
 body {
   height: 100vh;
   margin: 0;
@@ -28,6 +32,9 @@ input {
 
 .top-left-links{
   display: flex;
+  gap: 20px;
+  justify-content: center;
+  border: 2px solid black;
 }
 
 .header{
