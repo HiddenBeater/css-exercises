@@ -40,7 +40,7 @@ a{
   color: white;
 }
 
-.sidebar{
+.sidebar, .card-section{
   display: flex;
   flex: 1;
 }
