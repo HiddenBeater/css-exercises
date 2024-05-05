@@ -26,6 +26,10 @@ input {
   margin-bottom: 16px;
 }
 
+.top-left-links{
+  display: flex;
+}
+
 .header{
   display: flex;
 }
